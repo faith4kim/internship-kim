@@ -11,6 +11,8 @@ const Home = () => {
     window.scrollTo(0, 0);
   }, []);
 
+// this is on boarding test 
+
   return (
     <div id="wrapper">
       <div className="no-bottom no-top" id="content">
